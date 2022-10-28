@@ -2,7 +2,7 @@
 
 ## Overview:
 
-To perform satatistical analysis on MechaCar protoypes dataset, to identify/establish realtionship between the different variables to mpg.
+To perform statistical analysis on MechaCar protoypes dataset, to identify/establish realtionship between the different variables to mpg.
 
 ## Deliverable 1
 
